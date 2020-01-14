@@ -1,28 +1,30 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+moving Ball, who switches to 4 different positions by pressing a button 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+MacOs High Sierra 10.13.6, Visual Studio Code, Unity 2019.1.14f1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Unity installed, Visual Studio installed
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+ball.png
 
 ### Project state: 
-incl. progress in percent
+
 
 ### Limitations: 
 
-### Lessons Learned: 
+### Lessons Learned:
+writing script, attach script to gui
 
-Copyright by you :)
+
+Copyright by inner-e
